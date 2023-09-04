@@ -16,7 +16,7 @@
     row-gap: .5rem;
 }
 
-/* Próximos eventos */
+/* Eventos */
 
 .eventos__lista {
     display: flex;
@@ -60,7 +60,7 @@
         flex-grow: 1;
     }
 
-    /* Próximos eventos */
+    /* Eventos */
 
     .eventos__lista {
         justify-content: end;
